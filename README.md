@@ -18,8 +18,6 @@ The platform’s core objective is to **streamline the secondary loan market** t
 ##  Key Features
 
 ### 1. AI-Driven Portfolio Intelligence
-<img width="1512" height="945" alt="Screenshot 2026-02-08 at 6 43 02 PM" src="https://github.com/user-attachments/assets/2a436764-93b8-4d4d-ae5b-28861a3aa081" />
-<img width="1512" height="945" alt="Screenshot 2026-02-08 at 6 43 45 PM" src="https://github.com/user-attachments/assets/87372dca-c0f8-4026-a7b4-774f5302c29f" />
 
 - **Pros & Cons Analysis**  
   AI evaluates portfolio concentration risks such as over-exposure to specific sectors, geographies, or borrower types.
@@ -40,11 +38,12 @@ The platform’s core objective is to **streamline the secondary loan market** t
   - Simulate market scenarios like goverment guidelines or natural disasters
   - Optimize portfolio constraints
   - Brainstorm allocation strategies
+<img width="1512" height="945" alt="Screenshot 2026-02-08 at 6 43 02 PM" src="https://github.com/user-attachments/assets/2a436764-93b8-4d4d-ae5b-28861a3aa081" />
+<img width="1512" height="945" alt="Screenshot 2026-02-08 at 6 43 45 PM" src="https://github.com/user-attachments/assets/87372dca-c0f8-4026-a7b4-774f5302c29f" />
 
 ---
 
 ### 2. Tokenized Secondary Marketplace
-<img width="1512" height="945" alt="Screenshot 2026-02-08 at 6 44 21 PM" src="https://github.com/user-attachments/assets/11538749-7247-4876-8ace-0ff8e5634f72" />
 
 - **Asset Tokenization**  
   Loans are tokenized to enable fractional ownership and frictionless secondary trading.
@@ -57,6 +56,7 @@ The platform’s core objective is to **streamline the secondary loan market** t
   - Loan constraints
   - Risk disclosures
   - Government-mandated fixed conditions
+<img width="1512" height="945" alt="Screenshot 2026-02-08 at 6 44 21 PM" src="https://github.com/user-attachments/assets/11538749-7247-4876-8ace-0ff8e5634f72" />
 
 ---
 
@@ -66,20 +66,22 @@ The platform’s core objective is to **streamline the secondary loan market** t
   - FME lending data
   - Geographic distribution
   - Sector-wise growth metrics
-<img width="1512" height="945" alt="Screenshot 2026-02-08 at 6 45 14 PM" src="https://github.com/user-attachments/assets/3c28c1d6-78d8-4214-9326-86bb9c3fb241" />
 
 - **Benchmarking**
   - Compare portfolio performance against:
     - Platform-wide averages
     - GFA Scores
     - Peer portfolios
-<img width="1512" height="945" alt="Screenshot 2026-02-08 at 6 44 56 PM" src="https://github.com/user-attachments/assets/4b10a0d1-9dd4-45e8-ac04-af856860bd18" />
+   
+<img width="1512" height="945" alt="Screenshot 2026-02-08 at 6 45 14 PM" src="https://github.com/user-attachments/assets/3c28c1d6-78d8-4214-9326-86bb9c3fb241" />
 
 - **Portfolio Targets**
   - Align holdings with:
     - Strategic mandates
     - Risk thresholds
     - Regulatory requirements
+
+<img width="1512" height="945" alt="Screenshot 2026-02-08 at 6 44 56 PM" src="https://github.com/user-attachments/assets/4b10a0d1-9dd4-45e8-ac04-af856860bd18" />
 
 ---
 
