@@ -88,3 +88,6 @@ The platform’s core objective is to **streamline the secondary loan market** t
 - **Icons:** Lucide React
 
 ---
+
+## Video Demonstration
+[Link](https://drive.google.com/drive/folders/1vCtJSLkHHA8FJJj8H_zNVs2IJl1jAnwF?usp=drive_link)
